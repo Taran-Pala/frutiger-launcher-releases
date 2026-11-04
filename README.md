@@ -1,0 +1,1 @@
+# frutiger-launcher-releases
